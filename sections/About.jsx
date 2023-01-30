@@ -30,9 +30,9 @@ const About = () => (
 
         </span>{' '}
                 {' '}
-                <span className="font-extrabold text-white">But that's not all</span> - Possiest also offers WildLands, a MOORPG set in a zombie apocalypse world with a rich story to explore.
+                <span className="font-extrabold text-white">But that's not all</span> - Possiest also offers WildLands, a MMORPG set in a zombie apocalypse world with a rich story to explore.
                 As you progress through the game, you'll encounter memorable characters, complete quests, and uncover secrets about the world around you.{' '}
-                <span className="font-extrabold text-white">explore</span> more about Possiest by scrolling down
+                <span className="font-extrabold text-white">Explore</span> more about Possiest by scrolling down
             </motion.p>
 
             <motion.img
