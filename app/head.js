@@ -6,7 +6,7 @@ const Head = () => (
       <meta property="og:title" content="Possiest | play.possiest.com" />
       <meta property="og:type" content="website" />
       <meta property="og:url" content="https://possiest.com" />
-      <meta property="og:image" content="https://cosmetica.cc/page/splash/Eyezah-Tuikat.jpg" />
+      <meta property="og:image" content="https://i.imgur.com/hg7FBVF.png" />
       <meta property="og:site_name" content="Possiest" />
       <meta property="og:locale" content="en-us"/>
           <meta property="og:description" content="Possiest is a dynamic Minecraft server with popular game modes like BedWars, Survival, and WildLands a MMORPG mode. Join now and experience a diverse and exciting gaming experience!"/>
