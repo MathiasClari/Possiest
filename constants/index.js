@@ -1,27 +1,27 @@
 export const exploreWorlds = [
   {
     id: 'world-1',
-    imgUrl: '/skywars.png',
+    imgUrl: '/skywars.jpg',
     title: 'SkyWars',
   },
   {
     id: 'world-2',
-    imgUrl: '/bedwars.png',
+    imgUrl: '/bedwars.jpg',
     title: 'BedWars',
   },
   {
     id: 'world-3',
-    imgUrl: '/wildlands.png',
+    imgUrl: '/wildlands.jpg',
     title: 'Wildlands',
   },
   {
     id: 'world-4',
-    imgUrl: '/skylands.png',
+    imgUrl: '/skylands.jpg',
     title: 'SkyLands',
   },
   {
     id: 'world-5',
-    imgUrl: '/city.png',
+    imgUrl: '/city.jpg',
     title: 'City',
   },
 ];
@@ -53,19 +53,19 @@ export const newFeatures = [
 
 export const insights = [
   {
-    imgUrl: '/skylands.png',
+    imgUrl: '/skylands.jpg',
     title: 'Release of SkyLands',
     subtitle:
         'Possiest team is working hard on releasing the new mini game called SkyLands',
   },
   {
-    imgUrl: '/city.png',
+    imgUrl: '/city.jpg',
     title: 'Cities',
     subtitle:
         'You ever wanted to play GTA in Minecraft? Well, now you can! Possiest team is working hard on releasing the new mini game called Cities',
   },
   {
-    imgUrl: '/wildlands.png',
+    imgUrl: '/wildlands.jpg',
     title: 'Possiest team is expanding!',
     subtitle:
         'Possiest team is looking for new members to join the team, if you are interested, please contact us',
